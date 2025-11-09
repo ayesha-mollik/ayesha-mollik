@@ -3,17 +3,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha!;Flutter+Developer+%F0%9F%92%99;Previously+Worked+with+Java+%E2%9C%A8;Passionate+About+Beautiful+UI+%26+Clean+Code!+%F0%9F%8C%9F" alt="Typing Animation">
 </p>
 
-<!-- Glass Card Container -->
 <div style="background: rgba(30, 30, 30, 0.6); border-radius: 20px; padding: 30px; margin: auto; max-width: 900px; backdrop-filter: blur(10px);">
 
-<h1 align="center" style="color:#29F7FF;">👋 Hi, I'm Ayesha</h1>
+<h1 align="center" style="color:#29F7FF;">👋 Hi, I'm Ayesha Mollik</h1>
 <h3 align="center" style="color:#ffffff;">🚀 Flutter Developer | 💻 Previously worked with Java</h3>
 
 ---
 
 ### 👩‍💻 About Me  
 I’m a **Flutter Developer** passionate about crafting elegant, responsive, and high-performance mobile apps.  
-Started with **Java**, now focused on **Flutter & Dart** for modern, cross-platform applications.
+Started with **Java**, now focused on **Flutter & Dart** for modern cross-platform applications.
 
 ---
 
@@ -52,12 +51,12 @@ Started with **Java**, now focused on **Flutter & Dart** for modern, cross-platf
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px;">
   <div style="background: rgba(40,40,40,0.7); border-radius:15px; padding:15px; width: 260px;">
     <h4 style="color:#29F7FF;">📝 Note Keeper</h4>
-    <p style="color:#ffffff;">A Flutter app to create, edit & delete notes efficiently.</p>
+    <p style="color:#ffffff;">Flutter app to create, edit & delete notes efficiently.</p>
     <p style="color:#ffffff;"><b>Tech:</b> Flutter, Dart</p>
   </div>
   <div style="background: rgba(40,40,40,0.7); border-radius:15px; padding:15px; width: 260px;">
     <h4 style="color:#29F7FF;">💬 Chat App</h4>
-    <p style="color:#ffffff;">Real-time chat with Firebase backend and Flutter frontend.</p>
+    <p style="color:#ffffff;">Real-time chat app using Firebase backend.</p>
     <p style="color:#ffffff;"><b>Tech:</b> Flutter, Firebase</p>
   </div>
   <div style="background: rgba(40,40,40,0.7); border-radius:15px; padding:15px; width: 260px;">
@@ -85,7 +84,7 @@ Started with **Java**, now focused on **Flutter & Dart** for modern, cross-platf
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/ayesha-mollik/ayesha-mollik/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/ayesha-mollik/ayesha-mollik/blob/main/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 ---
@@ -106,4 +105,3 @@ Started with **Java**, now focused on **Flutter & Dart** for modern, cross-platf
 ⭐️ *“Code with passion, design with purpose.”*
 
 </div>
-
