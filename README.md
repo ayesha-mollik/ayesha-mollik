@@ -1,6 +1,13 @@
 <!-- Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha!;Flutter+Developer+%F0%9F%92%99;Previously+Worked+with+Java+%E2%9C%A8;Passionate+About+Beautiful+UI+%26+Clean+Code!+%F0%9F%8C%9F" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ayesha+Mollik!;Flutter+Developer+%F0%9F%92%99;Previously+Worked+with+Java+%E2%9C%A8;Passionate+About+Beautiful+UI+%26+Clean+Code+%F0%9F%8C%9F" alt="Typing Animation">
+</p>
+
+<!-- Profile Viewers and Followers -->
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=ayesha-mollik&color=blueviolet)
+  &nbsp;
+  ![Followers](https://img.shields.io/github/followers/ayesha-mollik?style=for-the-badge)
 </p>
 
 <div style="background: rgba(30, 30, 30, 0.6); border-radius: 20px; padding: 30px; margin: auto; max-width: 900px; backdrop-filter: blur(10px);">
@@ -12,7 +19,8 @@
 
 ### 👩‍💻 About Me  
 I’m a **Flutter Developer** passionate about crafting elegant, responsive, and high-performance mobile apps.  
-Started with **Java**, now focused on **Flutter & Dart** for modern cross-platform applications.
+Started with **Java**, now focused on **Flutter & Dart** for modern cross-platform applications.  
+💜 Coffee lover | 🎵 Music enthusiast | 🐍 Code & snake enthusiast
 
 ---
 
@@ -20,19 +28,19 @@ Started with **Java**, now focused on **Flutter & Dart** for modern cross-platfo
 
 #### 💬 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 </p>
 
 #### ⚙️ Frameworks & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
 ---
@@ -41,7 +49,8 @@ Started with **Java**, now focused on **Flutter & Dart** for modern cross-platfo
 <p align="center" style="color:#ffffff;">
 - Advanced Flutter Animations  
 - Firebase Integration  
-- REST APIs & Clean Architecture
+- REST APIs & Clean Architecture  
+- Cross-platform web apps with TypeScript
 </p>
 
 ---
@@ -53,16 +62,19 @@ Started with **Java**, now focused on **Flutter & Dart** for modern cross-platfo
     <h4 style="color:#29F7FF;">📝 Note Keeper</h4>
     <p style="color:#ffffff;">Flutter app to create, edit & delete notes efficiently.</p>
     <p style="color:#ffffff;"><b>Tech:</b> Flutter, Dart</p>
+    <p><a href="https://github.com/ayesha-mollik/note-keeper" style="color:#29F7FF;">View on GitHub</a></p>
   </div>
   <div style="background: rgba(40,40,40,0.7); border-radius:15px; padding:15px; width: 260px;">
     <h4 style="color:#29F7FF;">💬 Chat App</h4>
     <p style="color:#ffffff;">Real-time chat app using Firebase backend.</p>
     <p style="color:#ffffff;"><b>Tech:</b> Flutter, Firebase</p>
+    <p><a href="https://github.com/ayesha-mollik/chat-app" style="color:#29F7FF;">View on GitHub</a></p>
   </div>
   <div style="background: rgba(40,40,40,0.7); border-radius:15px; padding:15px; width: 260px;">
     <h4 style="color:#29F7FF;">🎯 Quiz App</h4>
     <p style="color:#ffffff;">Interactive quiz app with animations and scoring.</p>
     <p style="color:#ffffff;"><b>Tech:</b> Flutter, Dart</p>
+    <p><a href="https://github.com/ayesha-mollik/quiz-app" style="color:#29F7FF;">View on GitHub</a></p>
   </div>
 </div>
 
