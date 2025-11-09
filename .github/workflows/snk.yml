@@ -1,7 +1,7 @@
 name: Github Snake
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily
+    - cron: '0 0 * * *'  # Runs daily
   workflow_dispatch:
 
 jobs:
@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate GitHub contribution snake
+
+      - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ayesha-mollik
+          svg_out_path: ./github-contribution-grid-snake.svg
